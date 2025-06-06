@@ -13,7 +13,7 @@ An intelligent chatbot designed to assist in the initial screening of candidates
 ## Prerequisites
 
 - Python 3.8 or higher
-- Qwen API key (included in the code)
+- Openrouter[Qwen API key (included in the code)]
 
 ## Installation
 
