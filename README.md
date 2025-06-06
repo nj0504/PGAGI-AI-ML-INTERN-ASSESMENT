@@ -19,7 +19,7 @@ An intelligent chatbot designed to assist in the initial screening of candidates
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/nj0504/PGAGI-AI-ML-INTERN-ASSESMENT.git
 cd talentscout
 ```
 
